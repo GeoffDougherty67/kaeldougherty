@@ -1,2 +1,2 @@
 # kaeldougherty
-A website from course BDS522
+A look at google colab while trying out merge functions in Pandas.
